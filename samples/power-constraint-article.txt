@@ -1,0 +1,26 @@
+Power, Not Silicon, Is Becoming the Binding Constraint on Compute
+
+DEMONSTRATION CONTENT - a fictional article written for the FORGE sample data set.
+By Marta Iglesias - Published 2026-06-18 - The Grid Letter
+
+For two years the bottleneck in accelerated computing was packaging capacity. That
+constraint has eased. The new one is electricity, and it moves on a different clock.
+
+Utilities in three of the largest data centre markets have published interconnection
+queues that now extend past 2029. A queue position is not a guarantee of energised
+capacity, and operators have begun treating the two as separate planning problems.
+
+The practical consequence for equipment vendors is that a signed order is no longer a
+reliable indicator of a near-term shipment. Several operators have started to disclose
+"energised megawatts" alongside contracted megawatts, and the gap between the two is the
+number worth tracking.
+
+Behind-the-meter generation is the obvious workaround, and it is being pursued, but the
+permitting timelines for on-site gas turbines are measured in quarters and the timelines
+for anything nuclear are measured in years.
+
+None of this changes the direction of demand. It changes its shape: less a smooth ramp,
+more a series of step functions timed to substation energisation dates.
+
+The metric to watch is not order backlog. It is the ratio of energised to contracted
+capacity at the ten largest operators, and whether that ratio is rising or falling.

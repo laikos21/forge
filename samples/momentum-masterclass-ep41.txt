@@ -1,0 +1,36 @@
+Momentum Masterclass - Episode 41: Managing a Position After the Breakout
+
+DEMONSTRATION CONTENT - a fictional interview written for the FORGE sample data set.
+
+0:00 Host: Welcome back. Today we are talking about what happens after the breakout, which
+is the part nobody films.
+0:24 Host: My guest is Dana Ruiz, who runs a concentrated momentum book.
+0:41 Dana Ruiz: Thanks for having me. The post-entry phase is where most of the damage gets
+done, in my experience.
+1:15 Dana Ruiz: The first thing I would say is that the entry is a risk decision, not a
+conviction decision. You size for the stop, not for the story.
+2:02 Host: How do you define the stop?
+2:09 Dana Ruiz: Structurally. Below the last higher low that the breakout was launched from.
+If that level breaks, the reason I am in the trade is gone. It has nothing to do with how
+much I am willing to lose in percentage terms.
+3:30 Dana Ruiz: I also use the 21-period moving average as a trailing reference once the
+trade is working. Not as a trigger by itself. Two closes below it is information; one close
+below it is noise.
+4:47 Host: Do you add to winners?
+4:52 Dana Ruiz: Only into a new base. Adding into extension is how you turn a good trade
+into an average one. If the stock has not consolidated, there is no new risk point to add
+against.
+6:10 Dana Ruiz: The hardest discipline is doing nothing while a leader digests a move. Most
+of the return in a leader comes from a small number of weeks, and you cannot know in advance
+which weeks those are.
+7:35 Host: What about market context?
+7:41 Dana Ruiz: Environment first, always. I will take the same setup in two different
+regimes and get two completely different distributions of outcomes. When breadth is
+deteriorating I shrink size before I change my rules.
+9:02 Dana Ruiz: One more thing on exits. I separate the invalidation exit from the profit
+exit. The invalidation exit is mechanical. The profit exit is discretionary and I am allowed
+to be wrong about it.
+10:48 Host: If someone takes one thing away from this episode?
+10:55 Dana Ruiz: Write down what would make you exit before you enter. If you cannot write
+it, you do not have a trade, you have an opinion.
+11:30 Host: Thanks Dana. See everyone next week.

@@ -1,0 +1,44 @@
+{
+  "generated": "DEMONSTRATION CONTENT - fictional portfolio for the FORGE sample data set",
+  "as_of": "2026-07-31",
+  "book_currency": "USD",
+  "positions": [
+    {
+      "ticker": "HLSX",
+      "name": "Helios Semiconductor Inc.",
+      "theme": "AI compute",
+      "weight_pct": "5.8",
+      "entry_date": "2026-05-14",
+      "invalidation": "close below 214.00 (last higher low)",
+      "status": "open"
+    },
+    {
+      "ticker": "VLTR",
+      "name": "Voltaris Grid Systems",
+      "theme": "Power infrastructure",
+      "weight_pct": "5.1",
+      "entry_date": "2026-06-02",
+      "invalidation": "two closes below the 21-day average",
+      "status": "open"
+    },
+    {
+      "ticker": "CRNX",
+      "name": "Coronex Security",
+      "theme": "Cybersecurity",
+      "weight_pct": "4.4",
+      "entry_date": "2026-06-24",
+      "invalidation": "close below 88.50",
+      "status": "open"
+    },
+    {
+      "ticker": "MDLA",
+      "name": "Medalia Biosciences",
+      "theme": "Biotech",
+      "weight_pct": "0.0",
+      "entry_date": "2026-04-08",
+      "exit_date": "2026-05-29",
+      "invalidation": "close below 61.00",
+      "status": "stopped_out"
+    }
+  ]
+}

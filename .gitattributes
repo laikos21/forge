@@ -1,0 +1,30 @@
+# Line endings: normalise text to LF in the repository.
+# Without this, Windows checkouts rewrite every file to CRLF, which makes diffs
+# between machines useless and breaks byte-offset-sensitive files.
+* text=auto eol=lf
+
+# PowerShell keeps CRLF: some Windows PowerShell hosts are unhappy with LF-only
+# scripts, and these files are Windows-only by design.
+*.ps1 text eol=crlf
+
+# Binary fixtures. The sample PDF is generated with a hand-written writer whose
+# xref table stores byte offsets - a single LF->CRLF rewrite corrupts it, and
+# git's content heuristic does not detect it as binary (no NUL bytes early on).
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.bmp   binary
+*.tif   binary
+*.tiff  binary
+*.zip   binary
+*.db    binary
+*.sqlite binary
+*.ico   binary
+*.woff  binary
+*.woff2 binary
+
+# Generated; keep it out of diffs and out of "changed files" counts.
+frontend/package-lock.json linguist-generated=true -diff
